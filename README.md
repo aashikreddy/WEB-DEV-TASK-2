@@ -57,3 +57,18 @@ live-server
 - 🌙 Light/Dark mode  
 - 🔍 Search tasks  
 - 📦 Drag & drop reordering  
+---
+
+## 🧾 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+## ✨ Author
+
+**Aashik Reddy**  
+Frontend Developer | Web Designer  
+
+📧 [Contact Me](aashikreddythatiparthi03@gmail.com)   
+🐙 [GitHub](https://github.com/aashikreddy)
